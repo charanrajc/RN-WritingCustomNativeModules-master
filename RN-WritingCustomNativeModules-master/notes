@@ -1,0 +1,4 @@
+adb path for android:
+export PATH=$PATH:/Users/moksha/Library/Android/sdk/platform-tools
+
+adb reverse tcp:8081 tcp:8081
